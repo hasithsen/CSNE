@@ -1,0 +1,11 @@
+body0:
+ m:-0.6916993
+ x:-0.0409839
+ y:-0.0363144
+ z:-1.0641578
+ vx:-0.1180203
+ vy:-0.2728307
+ vz:-0.1973796
+Written all to output_10000.csv
+Simulated 50 frames for 10000 bodies
+Simulation took 116.262691 seconds.

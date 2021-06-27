@@ -1,0 +1,11 @@
+body0:
+ m:-0.2503313
+ x:0.7947891
+ y:-0.7429658
+ z:0.0845097
+ vx:-0.0212234
+ vy:0.2003278
+ vz:-0.1720585
+Written all to output_cuda_9000.csv
+Simulated 50 frames for 9000 bodies
+Simulation took 7.560930 seconds.

@@ -1,0 +1,28 @@
+
+########################################################################
+#      Date:           Mon Nov  9 08:39:51 PST 2020
+#    Job ID:           734491.v-qsvr-1.aidevcloud
+#      User:           u47422
+# Resources:           neednodes=1:ppn=2,nodes=1:ppn=2,walltime=00:02:00
+########################################################################
+
+s001-n001
+s001-n001
+---------
+Running MPI program n_body_sim_mpi on 8 processes
+Started at  Mon Nov 9 08:39:54 PST 2020
+---------
+Simulated 50 frames for 10000 bodies
+Simulation took 0.410676 seconds.
+
+real	0m1.077s
+user	0m3.520s
+sys	0m1.266s
+---------
+Finished at  Mon Nov 9 08:39:55 PST 2020
+
+########################################################################
+# End of output for job 734491.v-qsvr-1.aidevcloud
+# Date: Mon Nov  9 08:39:55 PST 2020
+########################################################################
+

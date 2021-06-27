@@ -1,0 +1,11 @@
+body0:
+ m:0.3860024
+ x:0.9685737
+ y:0.2749543
+ z:-0.8667738
+ vx:0.3481185
+ vy:-0.8222970
+ vz:0.1241273
+Written all to output_omp_8000.csv
+Simulated 50 frames for 8000 bodies
+Simulation took 5.588311 seconds.

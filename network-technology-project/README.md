@@ -1,5 +1,5 @@
 # AutoTag-LK
-Automatic License Plate Detection System with Computer Vision for Sri Lanka.
+Automatic License Plate Recognition System with Computer Vision for Sri Lanka.
 
 ### Guide
 
